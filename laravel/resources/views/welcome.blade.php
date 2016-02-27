@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Sascha Alexia</div>
+                <div class="title">Sascha Alexia New</div>
                 <div>Coming Soon</div>
             </div>
         </div>
